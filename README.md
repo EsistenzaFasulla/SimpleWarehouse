@@ -5,7 +5,7 @@ https://screenrec.com/share/J9teMxqogR (little showcase)
 
 Features:
   - Simple login/logout system. (username is "root", password is "password", you can edit these credentials by sending the "EDIT USERNAME PASSWORD" command)
-  - Check/add/remove items in your warehouse. ("add" "remove")
+  - Check/add/remove items in your warehouse. ("check", "add" "remove")
   
 
 
